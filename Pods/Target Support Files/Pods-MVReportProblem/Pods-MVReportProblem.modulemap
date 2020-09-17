@@ -1,0 +1,6 @@
+module Pods_MVReportProblem {
+  umbrella header "Pods-MVReportProblem-umbrella.h"
+
+  export *
+  module * { export * }
+}
